@@ -1,0 +1,25 @@
+body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  background-color: hsl(235, 18%, 26%);
+}
+
+.container {
+  background-color: white;
+  width: 700px;
+  height: 500px;
+  border-radius: 20px;
+}
+.main-container {
+  padding: 40px;
+}
+.join {
+  width: 340px;
+  color: hsl(0, 0%, 58%);
+}
+
+.list-1 {
+  display: flex;
+}
